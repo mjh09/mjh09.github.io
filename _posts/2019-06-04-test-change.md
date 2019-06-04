@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test markdown
+title: changed
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -11,6 +11,14 @@ comments: true
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
+# Here is a big heading
+
+- this 
+ - is
+ -a 
+  -bulleted
+-list  
+
 
 ## Here is a secondary heading
 
@@ -45,6 +53,8 @@ var foo = function(x) {
 }
 foo(3)
 ```
+
+
 
 And here is the same code yet again but with line numbers:
 
