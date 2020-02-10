@@ -1,8 +1,0 @@
----
-layout: post
-title: Sc2 match prediction
-image: https://twitter.com/Marthalemu/status/1157359129289056258/photo/1
----
-This app was designed to predict the winner of a StarCraft2 match between two players. I used a classification model to predict the results. 
-The model was able to predict the outcome with roughly 80 percent accuracy. Player rating seemed to have the highest predictive capability.
-[My App](https://sc2predict.herokuapp.com/predictions)
