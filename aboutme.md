@@ -13,4 +13,4 @@ and a curiosity for technology.
 Prior to Lambda School I mostly worked as a laborer for a bronze foundry where I was a part of a team that brought
 art sculptures to a metal medium.
 
-On occasion I paint miniatures, spend time outdoors, play video games, consume literatue and podcasts.
+On occasion I paint miniatures, spend time outdoors, play video games, consume literature and podcasts.
