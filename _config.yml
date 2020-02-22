@@ -42,13 +42,13 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#3d0099"
+navbar-col: "#1a0033"
 navbar-text-col: "#99ccff"
 navbar-children-col: "#cc00cc"
 page-col: "#b5baab" 
 link-col: "#3399ff"
 hover-col: "#ffd11a"
-footer-col: "#3d0099"
+footer-col: "#1a0033"
 footer-text-col: "#ffd11a"
 footer-link-col: "#3399ff"
 
