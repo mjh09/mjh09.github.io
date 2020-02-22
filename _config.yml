@@ -42,21 +42,21 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-#navbar-col: "#7a7a52"
-navbar-text-col: "#404040"
+navbar-col: "#476b6b"
+navbar-text-col: "#e6e6ff"
 navbar-children-col: "#F5F5F5"
 page-col: "#e6e6ff" #"#7a7a52"  #"#93a19c"  #FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: #"#7a7a52"    #"#de4c53"  ##F5F5F5"
+footer-col: "#476b6b"
 footer-text-col: "#e6e6ff"
 footer-link-col: "#e6b800"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/banner-keeting-valley.JPG"
-footer-img: "/img/banner-keeting-valley.JPG"
+#navbar-img: "/img/banner-keeting-valley.JPG"
+#footer-img: "/img/banner-keeting-valley.JPG"
 #page-img: "/img/cropped-valley.PNG"
 
 # --- Footer options --- #
