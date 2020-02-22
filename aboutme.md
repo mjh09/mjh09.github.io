@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+image: /img/me_cropped.PNG
 ---
 
 Welcome to my About Me section. My name is Matthew, but Matt is okay. I am an aspiring Data Scientist who
