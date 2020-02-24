@@ -4,13 +4,9 @@ title: About me
 image: /img/me_cropped.PNG
 ---
 
-Welcome to my About Me section. My name is Matthew, but Matt is okay. I am an aspiring Data Scientist who
-joined a Data Science cohort at Lambda School.
+**Name: Matthew Harshman
+Phone: 541-519-0788
+Email: mjharshman66@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/matthew-harshman-841584188/) --- Resume --- [Github](https://github.com/mjh09)
 
-My decision to undertake this path can be traced to a couple of key motivations: A pursuit of self-actualization
-and a curiosity for technology. 
-
-Prior to Lambda School I mostly worked as a laborer for a bronze foundry where I was a part of a team that brought
-art sculptures to a metal medium.
-
-On occasion I paint miniatures, spend time outdoors, play video games, consume literature and podcasts.
+"_Harnessing the insights of data to empower the future_"
