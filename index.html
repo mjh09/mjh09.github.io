@@ -36,6 +36,7 @@ use-site-title: true
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
 	  <a href="{{ post.subtitle }}" class="post-read-more">[App]</a>
+	  <a href="{{ post.gh-repo }}" class="post-read-more">[Repo]</a>
         {% endif %}
       </div>
     </div>
