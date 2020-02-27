@@ -47,11 +47,18 @@ use-site-title: true
       {% if post.bullet %}	    
       <div class="post-bullet">
 	{{ post.bullet }}
-	{% if post.bullet-1 %}
-	      <a class="post-bullet"> {{ post.bullet-1 }} </a>
-	{% endif %}
       </div>
-      {% endif %}	    
+      {% endif %}
+      {% if post.bullet-1 %}	    
+      <div class="post-bullet">
+	{{ post.bullet-1 }}
+      </div>
+      {% endif %}
+      {% if post.bullet-2 %}	    
+      <div class="post-bullet">
+	{{ post.bullet-2 }}
+      </div>
+      {% endif %}
     </div>
 
     {% if post.tags.size > 0 %}
