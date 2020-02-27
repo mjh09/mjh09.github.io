@@ -4,7 +4,7 @@ title: Write-ups
 use-site-title: true
 ---
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in paginator.wups %}
   <article class="post-preview">
     <a href="{{ post.subtitle }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
