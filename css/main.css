@@ -360,10 +360,17 @@ footer .theme-by {
 .post-entry {
   width: 100%;
 }
+.post-stack {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #404040;
+  font-size: 22px;
+  font-weight: 300;
+}
 .post-bullet {
-  color: #66ff66;
-  font-size: 15px;
-  margin-left: 20px;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #404040;
+  font-size: 16px;
+  margin-left: 10px;
 }
 .post-image {
   float: right;
