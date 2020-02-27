@@ -23,7 +23,7 @@ description: Data Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  Write-ups: "write-ups"
+  Write-ups: "writeups/index"
   Skills: "skills"
   About Me: "aboutme"
   
