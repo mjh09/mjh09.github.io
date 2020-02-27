@@ -341,7 +341,7 @@ footer .theme-by {
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
@@ -365,7 +365,7 @@ footer .theme-by {
   color: #404040;
   font-size: 20px;
   font-weight: 800;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 .post-bullet {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
