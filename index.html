@@ -44,6 +44,15 @@ use-site-title: true
 	  <a href="{{ post.gh-repo }}" class="post-read-more"> [Github Repo] </a>
         {% endif %}
       </div>
+ 
+      {% if post.bullet %}	    
+      <div class="post-bullet">
+	{{ post.bullet }}
+	{% if post.bullet-1 %}
+	{{ post.bullet-1 }}
+	{% endif %}
+      </div>
+      {% end if %}	    
     </div>
 
     {% if post.tags.size > 0 %}
