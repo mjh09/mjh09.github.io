@@ -361,9 +361,9 @@ footer .theme-by {
   width: 100%;
 }
 .post-bullet {
-  color: #cc00cc;
-  font-size: 22px;
-  font-weight: 800;
+  color: #404040;
+  font-size: 16px;
+  margin-left: 20px;
 }
 .post-image {
   float: right;
@@ -383,11 +383,6 @@ footer .theme-by {
 .post-preview .post-read-more {
   font-weight: 800;
 }
-/* .post-preview .post-bullet {
-  color: #cc00cc;
-  font-size: 22px;
-  font-weight: 800;
-} */
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
