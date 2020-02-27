@@ -365,13 +365,14 @@ footer .theme-by {
   color: #404040;
   font-size: 20px;
   font-weight: 800;
-  margin-bottow: 10px;
+  margin-bottom: 10px;
 }
 .post-bullet {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: #404040;
   font-size: 16px;
   margin-left: 10px;
+  marigin-bottom: 5px;
 }
 .post-image {
   float: right;
