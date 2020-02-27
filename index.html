@@ -61,7 +61,7 @@ use-site-title: true
       {% endif %}
       {% if post.refs %}	    
       <div class="post-refs">
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more"> [Read&nbsp;More] </a>
+          <a href="{{ post.write-up }}" class="post-read-more"> [Read&nbsp;More] </a>
 	  <a href="{{ post.subtitle }}" class="post-read-more">&nbsp; [Visit the Site] &nbsp;</a>
 	  <a href="{{ post.gh-repo }}" class="post-read-more"> [Github Repo] </a>
       </div>
