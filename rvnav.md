@@ -16,7 +16,7 @@ The data science team took on three separate tasks: increase the number of bridg
 
 ### The Data
 **Bridges and Tunnels**<br/>
-Our sole source was decided to be [The U.S. Department of Transportation: Federal Highway Administraion](https://www.fhwa.dot.gov/bridge/nbi/ascii2018.cfm). They have a robust and current public database for both bridges and tunnels. We restricted the clearnaNce window from a lower bound at 7 feet to an upper bound of 20 feet, reformatted the GPS coordinates to a decimal format to be compatible with ARCGIS, and dropped the remaining unused columns. In total, roughly 80,000 new bridges were added.
+Our sole source was decided to be [The U.S. Department of Transportation: Federal Highway Administraion](https://www.fhwa.dot.gov/bridge/nbi/ascii2018.cfm). They have a robust and current public database for both bridges and tunnels. We restricted the clearance window from a lower bound at 7 feet to an upper bound of 20 feet, reformatted the GPS coordinates to a decimal format to be compatible with ARCGIS, and dropped the remaining unused columns. In total, roughly 80,000 new bridges were added.
 
 ![](/img/regex-to-decimal.PNG)
 ![](/img/bridge_clearance_df.PNG)
