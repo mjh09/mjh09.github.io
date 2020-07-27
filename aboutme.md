@@ -13,7 +13,7 @@ I am a data science enthusiast. Driven by curiosity, I investigate, model, hypot
 <br/>
 [Github](https://github.com/mjh09): github.com/mjh09 <br/>
 <br/>
-[Resume](https://docs.google.com/document/d/1vCAsYmomPxjoy3RgWkRq--0VdHP9MBq-8t2_fH4pQWI/edit?usp=sharing): docs.google.com/document/d/1vCAsYmomPxjoy3RgWkRq--0VdHP9MBq-8t2_fH4pQWI/edit?usp=sharing <br/>
+[Resume](https://drive.google.com/file/d/1Ee46wKYV4q6A5x7xURjdEB_anbSJ2mIE/view?usp=sharing): drive.google.com/file/d/1Ee46wKYV4q6A5x7xURjdEB_anbSJ2mIE/view?usp=sharing <br/>
 <br/>
 
 <br/>
